@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479793171 source:c:\users\alial\onedrive\1 uh ece\1 fall 2016\ece 3331_programming_application in ece\cp_projects\cp3_solution\cp3_11_21_2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
